@@ -2,27 +2,18 @@
     "name":  "Lazar-Listings",
     "id":  "com.vrchat.example-listing",
     "url":  "https://DevOpsLazar.github.io/Lazar-Listings/index.json",
-    "author":  {
-                   "email":  "",
-                   "name":  "DevOpsLazar",
-                   "url":  "https://github.com/DevOpsLazar"
-               },
+    "author":{
+        "email":  "",
+        "name":  "DevOpsLazar",
+        "url":  "https://github.com/DevOpsLazar"
+    },
     "description":  "Lazar\u0027s listing of VRChat packages",
-    "infoLink":  {
-                     "url":  "https://github.com/DevOpsLazar/Lazar-Listings",
-                     "text":  "View on GitHub"
-                 },
+    "infoLink":{
+        "url":  "https://github.com/DevOpsLazar/Lazar-Listings",
+        "text":  "View on GitHub"
+    },
     "bannerUrl":  "banner.png",
-    "githubRepos":  [
-                        "DevOpsLazar/Q-Shooters"
-                    ],
-    "packages":  [
-                     {
-                         "name":  "com.vrchat.udonsharp",
-                         "releases":  [
-                                          "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                                          "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-                                      ]
-                     }
-                 ]
+    "githubRepos":[
+        "DevOpsLazar/Q-Shooters"
+    ]
 }

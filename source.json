@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
+    "name":"Q-Shooters",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://DevOpsLazar.github.io/Q-Shooters/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"",
+        "name":"DevOpsLazar",
+        "url":"https://github.com/DevOpsLazar"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Lazar's listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/DevOpsLazar/Q-Shooters",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",

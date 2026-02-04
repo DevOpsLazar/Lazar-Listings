@@ -1,7 +1,7 @@
 {
-    "name":"Q-Shooters",
+    "name":"Lazar-Listings",
     "id":"com.vrchat.example-listing",
-    "url":"https://DevOpsLazar.github.io/Q-Shooters/index.json",
+    "url":"https://DevOpsLazar.github.io/Lazar-Listings/index.json",
     "author":{
         "email":"",
         "name":"DevOpsLazar",
@@ -9,7 +9,7 @@
     },
     "description":"Lazar's listing of VRChat packages",
     "infoLink":{
-        "url":"https://github.com/DevOpsLazar/Q-Shooters",
+        "url":"https://github.com/DevOpsLazar/Lazar-Listings",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
